@@ -9,7 +9,7 @@
     ##image_extensions = [".jpg", ".jpeg", ".png"]
     ##images_to_compress = []
 
-   ## images list
+ ## images list
     ##for filename in os.listdir(downloadsFolder):
         ##name, extension = os.path.splitext(downloadsFolder + filename)
        ## if extension in image_extensions:
